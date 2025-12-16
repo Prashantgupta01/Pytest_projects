@@ -1,0 +1,4 @@
+pytest
+requests
+openpyxl        # Excel report
+allure-pytest   # Allure integration
